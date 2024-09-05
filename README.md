@@ -32,7 +32,7 @@ The dataset used in this project consists of multiple data files that contain ph
 - **PBPRED.csv**: Predicted results for an incomplete dataset.
 - **Plomo_neg**: Pb-Pb (lead-lead) negative data.
 - **Plomo_pos**: Pb-Pb (lead-lead) positive data.
-- **dataplomoPBPB.csv**: Additional data file related to Pb-Pb particles.
+- **dataplomoPBPB.csv**: Original data file related to Pb-Pb particles positive and negative.
 
 Each dataset includes the following key features:
 - `Event`: Event identifier.
