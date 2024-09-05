@@ -16,7 +16,7 @@ This repository contains code and resources for classifying and clustering parti
 
 ## Project Overview
 
-The goal of this project is to classify and cluster particle data to understand their behavior better. This is achieved through the application of various machine learning algorithms, including clustering methods like DBSCAN and classification techniques using neural networks.
+This project is designed to classify and cluster particles using machine learning techniques. It focuses on a dataset that includes various types of particles such as deuterons, protons, kaons, pions, and positrons. The goal is to develop a particle classification model and visualize the results of the clustering.
 
 ## Dataset
 
@@ -36,6 +36,13 @@ To run the code in this repository, you need to have Python installed along with
 
 Make sure you have the following installed:
 - Python 3.x
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- tensorflow
+- kafka-python
 - pip (Python package installer)
 
 ### Installation
