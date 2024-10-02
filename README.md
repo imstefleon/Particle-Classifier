@@ -66,7 +66,7 @@ Machine learning and clustering techniques employed:
 2. **Gaussian Mixture Models (GMM)** (`C2-Gaussian-NEG.ipynb` & `C2-GaussianPOS.ipynb`)
 3. **DBSCAN Clustering** (`C3-DBSCAN.ipynb`)
 4. **Spectral Clustering** (`C4-SpectralClustering.ipynb`)
-5. **Curve Classifier** (`C6-Curves.ipynb`)
+5. **Curve Classifier** (`C5-Curves.ipynb`)
 6. **Particle Classification with Kafka** (`ParticleClassifierNEG.ipynb` & `ParticleClassifierPOS.ipynb`)
 
 ## Results
